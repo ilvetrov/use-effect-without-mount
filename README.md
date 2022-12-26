@@ -9,7 +9,7 @@ React Hook useEffect without running on mount.
 Just use like default `useEffect`.
 
 ```tsx
-import { useEffectWithoutMount } from './useEffectWithoutMount'
+import { useEffectWithoutMount } from 'use-effect-without-mount'
 
 useEffectWithoutMount(() => {
   // your code
@@ -21,7 +21,7 @@ Even when React starts preserving state after a remount, `useEffectWithoutMount`
 There is also `useLayoutEffectWithoutMount`:
 
 ```tsx
-import { useLayoutEffectWithoutMount } from './useEffectWithoutMount'
+import { useLayoutEffectWithoutMount } from 'use-effect-without-mount'
 ```
 
 ## How it works?
