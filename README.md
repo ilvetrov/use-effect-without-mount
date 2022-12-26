@@ -67,3 +67,9 @@ export function useEffectWithoutMount(effect: EffectCallback, deps?: DependencyL
 1. For the future of React, `return () => {...` sets `mountedRef` to `false` for the next mount.
 
 So our bottom `useEffect` will only work on the next renders (not the first "mounting render") and even in the future of React.
+
+## My Links
+
+- [GitHub](https://github.com/ilvetrov)
+- [Telegram](https://t.me/ilvetrov)
+- [contact@ilve.site](mailto:contact@ilve.site)
