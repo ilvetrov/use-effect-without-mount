@@ -1,4 +1,6 @@
-# useEffectWithoutMount
+<p>
+  <img src="https://raw.githubusercontent.com/ilvetrov/use-effect-without-mount/main/logo.svg" width="200" height="168" />
+</p>
 
 React Hook useEffect without running on mount.
 
